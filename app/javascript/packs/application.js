@@ -13,4 +13,4 @@ Turbolinks.start()
 ActiveStorage.start()
 
 import 'bootstrap/dist/js/bootstrap'
-import '@fortawesome/f'
+import '@fortawesome/fontawesome-free/js/all'
